@@ -93,4 +93,4 @@ body{
 **The outcome:** <br>
 <img width="370" alt="Screenshot 2023-07-22 194220" src="https://github.com/sevro49/node-sass-project-commands/assets/95761902/19f5591d-e369-4303-8f57-c2dd021b10af">
 
-
+Now you can clear content of _base.scss file and use it as you like!
