@@ -62,7 +62,7 @@ npm run sass
 ```
 
 after run this script, open any .scss file and press space button <br><br>
-<img width="420" alt="Screenshot 2023-07-22 193257" src="https://github.com/sevro49/node-sass-project-commands/assets/95761902/38df8264-6c4c-46f7-97e2-4c59b4c0a66a"> <br>
+<img width="450" alt="Screenshot 2023-07-22 193257" src="https://github.com/sevro49/node-sass-project-commands/assets/95761902/347f46c6-b412-4fab-b615-09bd7d56d38a"> <br>
 You'll see it is working. But to make sure, we'll add some css into _base.scss file. <br>
 **Here is my html file:**
 ``` html
@@ -91,6 +91,6 @@ body{
 ```
 
 **The outcome:** <br>
-<img width="370" alt="Screenshot 2023-07-22 194220" src="https://github.com/sevro49/node-sass-project-commands/assets/95761902/19f5591d-e369-4303-8f57-c2dd021b10af">
+<img width="370" alt="Screenshot 2023-07-22 194220" src="https://github.com/sevro49/node-sass-project-commands/assets/95761902/6dde9f88-09c9-4e4b-bd33-624f2b57f1e2">
 
 Now you can clear content of _base.scss file and use it as you like!
