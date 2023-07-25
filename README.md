@@ -1,5 +1,11 @@
 # node-sass-project-install
 
+Download node.js from link below and install &#8595;
+<br>
+https://nodejs.org/
+<br>
+After installation, restart your computer
+
 to see node version:
 ```
 node --version
