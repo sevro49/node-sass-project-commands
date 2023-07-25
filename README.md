@@ -1,4 +1,4 @@
-# node-sass-project-commands
+# node-sass-project-install
 
 to see node version:
 ```
